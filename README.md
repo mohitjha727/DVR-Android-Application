@@ -18,3 +18,6 @@ employee working on the different field or sites.
 # Screenshots
 
 ![screenshorts](https://github.com/mohitjha727/DVR-Android-Application/blob/master/Screenshot%20(253).png)
+
+# License
+Licensed under the Apache License, Version 2.0
